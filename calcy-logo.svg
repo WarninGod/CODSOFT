@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Calculator Body -->
+  <rect x="120" y="120" width="160" height="220" rx="20" ry="20" fill="#4a5568" stroke="#2d3748" stroke-width="4"/>
+  
+  <!-- Calculator Screen -->
+  <rect x="135" y="135" width="130" height="60" rx="10" ry="10" fill="#81e6d9"/>
+  
+  <!-- Screen Face -->
+  <!-- Eyes -->
+  <circle cx="155" cy="155" r="4" fill="#2d3748"/>
+  <circle cx="175" cy="155" r="4" fill="#2d3748"/>
+  <!-- Blush -->
+  <ellipse cx="145" cy="170" rx="8" ry="4" fill="#ff6b6b" opacity="0.7"/>
+  <ellipse cx="185" cy="170" rx="8" ry="4" fill="#ff6b6b" opacity="0.7"/>
+  <!-- Smile -->
+  <path d="M 160 175 Q 165 180 170 175" stroke="#2d3748" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Calculator Buttons -->
+  <!-- Row 1 -->
+  <rect x="140" y="210" width="20" height="15" rx="3" fill="#667eea"/>
+  <rect x="170" y="210" width="20" height="15" rx="3" fill="#667eea"/>
+  <rect x="200" y="210" width="20" height="15" rx="3" fill="#667eea"/>
+  <rect x="230" y="210" width="20" height="15" rx="3" fill="#667eea"/>
+  
+  <!-- Row 2 -->
+  <rect x="140" y="235" width="20" height="15" rx="3" fill="#764ba2"/>
+  <rect x="170" y="235" width="20" height="15" rx="3" fill="#764ba2"/>
+  <rect x="200" y="235" width="20" height="15" rx="3" fill="#764ba2"/>
+  <rect x="230" y="235" width="20" height="15" rx="3" fill="#764ba2"/>
+  
+  <!-- Row 3 -->
+  <rect x="140" y="260" width="20" height="15" rx="3" fill="#764ba2"/>
+  <rect x="170" y="260" width="20" height="15" rx="3" fill="#764ba2"/>
+  <rect x="200" y="260" width="20" height="15" rx="3" fill="#764ba2"/>
+  <rect x="230" y="260" width="20" height="15" rx="3" fill="#764ba2"/>
+  
+  <!-- Row 4 -->
+  <rect x="140" y="285" width="20" height="15" rx="3" fill="#764ba2"/>
+  <rect x="170" y="285" width="20" height="15" rx="3" fill="#764ba2"/>
+  <rect x="200" y="285" width="20" height="15" rx="3" fill="#ffa726"/>
+  <rect x="230" y="285" width="20" height="15" rx="3" fill="#ffa726"/>
+  
+  <!-- Arms -->
+  <circle cx="100" cy="180" r="8" fill="#2d3748"/>
+  <rect x="92" y="172" width="30" height="8" rx="4" fill="#2d3748"/>
+  <circle cx="320" cy="180" r="8" fill="#2d3748"/>
+  <rect x="298" y="172" width="30" height="8" rx="4" fill="#2d3748"/>
+  
+  <!-- Legs -->
+  <circle cx="140" cy="360" r="8" fill="#2d3748"/>
+  <rect x="136" y="340" width="8" height="30" rx="4" fill="#2d3748"/>
+  <circle cx="260" cy="360" r="8" fill="#2d3748"/>
+  <rect x="256" y="340" width="8" height="30" rx="4" fill="#2d3748"/>
+  
+  <!-- CALCY Text -->
+  <text x="80" y="80" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#667eea">CALCY</text>
+</svg>
